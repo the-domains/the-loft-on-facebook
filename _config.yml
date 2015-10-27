@@ -1,0 +1,23 @@
+name: The Loft on Facebook
+favicon: null
+layout_spectrum: 0.9961819814052433
+typography_spectrum: 0.9882703768089414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2757357764057815
+  lightness: 0.3028947697021067
+  saturation: 0.7833048012107611
+  rhythmicContrast: 0.4084372268989682
+purpose: []
